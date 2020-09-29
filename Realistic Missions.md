@@ -3,3 +3,8 @@
 
 ## Destroy Fascims
 #### Site has an update.php route. It will bring you to a log in page. Try SQL injection in log in field `'or 1=1'` and you'll bypass the authentication
+
+## Peace Poetry
+###
+
+## Save the Whales
